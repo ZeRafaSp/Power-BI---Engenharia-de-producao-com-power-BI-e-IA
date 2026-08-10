@@ -102,11 +102,11 @@ A estrutura do modelo foi mantida de forma simples, utilizando a tabela de produ
 
 ### Dashboard Principal
 
-![Dashboard Principal](imagens/dashboard.png)
+![Dashboard Principal](screenshots/dashboard.png)
 
 ### Modelo de Dados
 
-![Modelo de Dados](imagens/modelagem.png)
+![Modelo de Dados](screenshots/modelagem.png)
 
 ---
 
